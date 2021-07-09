@@ -14,7 +14,6 @@ function App() {
       })
     );
   };
-  //temp comment
   const addTodo = (title, desc) => {
     console.log("i am adding this todo", title, desc);
     let sno;
